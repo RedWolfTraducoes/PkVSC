@@ -1,0 +1,20 @@
+{
+  "common_1240_system_01a": "ID confirmed: Professor Sada.\nAccess granted.",
+  "common_1240_system_01b": "ID confirmed: Professor Turo.\nAccess granted.",
+  "common_1240_system_02": "Initiating emergency shutdown...",
+  "common_1240_system_03": "Please wait...\nPlease wait...",
+  "common_1240_system_04": "Access denied.",
+  "common_1240_system_06": "Shutdown command overridden.\nReinitializing...",
+  "common_1240_hakase_01a": "It is up to you now, [trnm:0].[npcn:C]",
+  "common_1240_hakase_01b": "It is up to you now, [trnm:0].[npcn:F]",
+  "common_1240_system_05a": "AI Sada switching to sleep mode.\nActivating offensive protocols...",
+  "common_1240_system_05b": "AI Turo switching to sleep mode.\nActivating offensive protocols...",
+  "common_1240_hakase_02a": "Please. Defeat me.[npcn:C]",
+  "common_1240_hakase_02b": "Please. Defeat me.[npcn:F]",
+  "common_1240_hakase_03a": "... ... ...\nAt...ɑt |ɑst...[npcn:B]",
+  "common_1240_hakase_03b": "... ... ...\nAt...ɑt |ɑst...[npcn:E]",
+  "common_1240_hakase_04a": "∧t |ɑst ⅿy drəaⅿ ıs withın reaɔh...[npcn:B]",
+  "common_1240_hakase_04b": "∧t |ɑst ⅿy drəaⅿ ıs withın reaɔh...[npcn:E]",
+  "common_1240_hakase_05a": "ɑnd you’re no7 gətting ın the way![npcn:B]",
+  "common_1240_hakase_05b": "ɑnd you’re no7 gətting ın the way![npcn:E]"
+}
