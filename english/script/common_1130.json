@@ -1,0 +1,15 @@
+{
+  "common_1130_system_01": "Do you want to press the button to disable one\nof the locks on the Zero Lab?",
+  "common_1130_system_02": "You know what you need to do... Better press it!",
+  "common_1130_system_04": "All locks disabled.",
+  "common_1130_hakase_01a": "Ah, ah, ɑh. Hel|ｏ. Can you hear me now?[npcn:B]",
+  "common_1130_hakase_01b": "Ah, ah, ɑh. Hel|ｏ. Can you hear me now?[npcn:E]",
+  "common_1130_hakase_02a": "Pｌｅaｓe fｆffvfｏｒgｉｖe mｙ previous transmission.\nThere seems to be some signal interference.[npcn:B]",
+  "common_1130_hakase_02b": "Pｌｅaｓe fｆffvfｏｒgｉｖe mｙ previous transmission.\nThere seems to be some signal interference.[npcn:E]",
+  "common_1130_friend_01": "...That’s not what that was.[npcn:6]",
+  "common_1130_rival_01": "What do you mean, Arven...?[npcn:4]",
+  "common_1130_hakase_03a": "... ... ...[npcn:B]",
+  "common_1130_hakase_03b": "... ... ...[npcn:E]",
+  "common_1130_hakase_05a": "The locks have all been disabled at last.\nPlease make your way now to the Zero Lab—\\r\nwhich lies at the very bottom of Area Zero.[npcn:B]",
+  "common_1130_hakase_05b": "The locks have all been disabled at last.\nPlease make your way now to the Zero Lab—\\r\nwhich lies at the very bottom of Area Zero.[npcn:E]"
+}
