@@ -1,0 +1,13 @@
+{
+  "common_1090_system_01": "Do you want to press the button to disable one\nof the locks on the Zero Lab?",
+  "common_1090_system_02": "You heard the professor... Better press it!",
+  "common_1090_system_03": "Lock disabled.\nTwo of four locks are still active.",
+  "common_1090_hakase_01a": "Well done.[npcn:B]",
+  "common_1090_hakase_01b": "Well done.[npcn:E]",
+  "common_1090_hakase_02a": "Please continue your efforts at the remaining\nresearch stations.[npcn:B]",
+  "common_1090_hakase_02b": "Please continue your efforts at the remaining\nresearch stations.[npcn:E]",
+  "common_1090_friend_01": "Hey, [trnm:0].[npcn:6]",
+  "common_1090_friend_02": "You know that book [s;:gs]he told me to bring?\nI think it’s got something to do with this place.\\c\nOr more like...everything to do with this place.[npcn:6]",
+  "common_1090_friend_03": "But I’m not the one [s;:gs]he expects to fix whatever\nall this is... You are.\\c\nI think you should be the one to carry it.[npcn:6]",
+  "common_1090_friend_04": "[BD06:0]Take care of it for me...\nOK, [trnm:0]?[npcn:6]"
+}
