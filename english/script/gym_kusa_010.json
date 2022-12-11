@@ -1,0 +1,11 @@
+{
+  "gym_kusa_010_receptionist_01": "Welcome to the Artazon Gym!",
+  "gym_kusa_010_receptionist_02": "Let me register you as a challenger. Your name is\n[trnm:0], yes?",
+  "gym_kusa_010_receptionist_03": "Great! Now, in order to face Gym Leader\nBrassius, you’ll first need to pass the Gym Test.",
+  "gym_kusa_010_receptionist_04": "Here at the Artazon Gym, that means completing\na game of [clr:6]Sunflora Hide-and-Seek[clr:0]!",
+  "gym_kusa_010_receptionist_history": "As you may know, Artazon is a city of artists.\\c\nThe artwork made by the people here is largely\ninspired by nature and the sun that nurtures it.\\c\nSince Sunflora embody these concepts, we try to\ngather them and take good care of them!",
+  "gym_kusa_010_receptionist_05": "Your job today is to find the Sunflora located\nthroughout Artazon. Remember—these Pokémon\\r\nlook like sun-shaped flowers!",
+  "gym_kusa_010_receptionist_06": "Gather up [num2:1] of them and bring them to the\nSunflora Lawn, and you pass the test.",
+  "gym_kusa_010_receptionist_map": "I’ll register the Sunflora Lawn’s location in your\nmap app to get you started.\\c\nWhen you leave the Gym, turn right and you’ll\nsee two large Sunflora statues—head for those!\\c\nOnce you’re at the lawn’s entrance, the staffer\nthere will tell you more about the Gym Test.",
+  "gym_kusa_010_receptionist_07": "Now get out there and have fun!"
+}
