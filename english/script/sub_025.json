@@ -1,0 +1,14 @@
+{
+  "sub_025_old_m_01": "Hoho! Hello there, child! I am a collector of\ncuriosities and a great lover of [pknm:1].",
+  "sub_025_old_m_02": "I’ve an auspicious curio to offer—if you’ll trade\nme [num2:3] [itp1][itm2:2] for it.",
+  "sub_025_old_m_03": "[BD06:0]Ah, it seems you haven’t got enough, child.\nWhy don’t you find some [pknm:1] to\\r\nbattle?\\r\nYou\\r\ncan\\r\nacquire\\r\n[itp1][itm2:2]\\r\nfrom them.",
+  "sub_025_old_m_04": "Hoho! Very good, very good. I feel closer than\never to [pknm:1] now!",
+  "sub_025_old_m_05": "Here’s the curio I promised you. Take good care\nof it—it’s laden with blessings.",
+  "sub_025_old_m_06": "Wait—I’m afraid you can’t carry any more sets\nof Auspicious Armor than you’ve already got.",
+  "sub_025_old_f_01": "Ehehe! Hello there, child! I am a collector of\ncuriosities and a great lover of [pknm:1].",
+  "sub_025_old_f_02": "I’ve a curio with a...dark past, shall we say. It’s\nyours for [num2:3] [itp1][itm2:2].",
+  "sub_025_old_f_03": "[BD06:0]You’ll need more than that, child. If you battle\nsome [pknm:1], they may drop the\\r\n[itp1][itm2:2]\\r\nyou need.",
+  "sub_025_old_f_04": "Ehehe! That will do nicely. I feel more connected\nwith [pknm:1] now!",
+  "sub_025_old_f_05": "Here’s the curio I promised you. Careful with it—\nit’s steeped in a potent malice.",
+  "sub_025_old_f_06": "Wait—I’m afraid you can’t carry any more sets\nof Malicious Armor than you’ve already got."
+}
