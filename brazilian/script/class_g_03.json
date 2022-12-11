@@ -1,0 +1,23 @@
+{
+  "class_g_03_home_01": "Put away your phones. It is time to begin class.[npcn:29]",
+  "class_g_03_home_02": "In my last class, I taught about HP restoration.[npcn:29]",
+  "class_g_03_home_03": "However, after class, I was asked by several of\nyou about [clr:6]Power Points[clr:0], commonly known as [clr:6]PP[clr:0].[npcn:29]",
+  "class_g_03_home_04": "When a Pokémon loses all of its HP, it faints and\ncan no longer battle![npcn:29]",
+  "class_g_03_home_05": "What, then, happens to a Pokémon when it loses\nall of its PP?[npcn:29]",
+  "class_g_03_select_01": "It can’t use moves",
+  "class_g_03_select_02": "It won’t listen to its Trainer",
+  "class_g_03_select_03": "All of its stats get lowered",
+  "class_g_03_home_answer_01": "[BD06:0]Perfectly correct, M[aster;iss:g]\n[trnm:0]!\\r\nPerhaps\\r\nyou\\r\nknow\\r\nthis\\r\nfrom\\r\nfirsthand experience?[npcn:29]",
+  "class_g_03_home_answer_02": "That would certainly be a dangerous situation,\nbut that is not the correct answer.\\c\nWhether a Pokémon listens to its Trainer depends\non the number of Gym Badges the Trainer has.[npcn:29]",
+  "class_g_03_home_answer_03": "That would certainly be a dangerous situation,\nbut that is not the correct answer.\\c\nThat is not the sort of power we are talking\nabout when we talk of Power Points.[npcn:29]",
+  "class_g_03_home_06": "When a Pokémon runs out of PP, it can no longer\nuse its moves.[npcn:29]",
+  "class_g_03_home_07": "However, each move has its own store of PP, so\nyou can mitigate PP loss by using a variety of\\r\nmoves rather than just one move repeatedly.[npcn:29]",
+  "class_g_03_home_08": "If a Pokémon loses all PP for all of its moves, it\nwill only be able to use Struggle—an action that\\r\nalso damages the Pokémon that uses it.[npcn:29]",
+  "class_g_03_home_09": "In order to avoid this predicament, PP can be\nrestored at Pokémon Centers along with HP.[npcn:29]",
+  "class_g_03_home_10": "Items such as Ethers and Max Ethers can also be\nused to restore PP. Be careful not to confuse\\r\nPotions with Ethers in the heat of battle![npcn:29]",
+  "class_g_03_home_11": "However, Ethers are not sold at shops, so you\nshould use them judiciously if you find them.[npcn:29]",
+  "class_g_03_home_12": "The stronger the move, the lower its maximum PP.\\c\nDo not waste uses of these moves unless you wish\nto quickly run out of PP. It is important to find\\r\nbalance in a Pokémon’s set of moves.[npcn:29]",
+  "class_g_03_home_13": "As you can see, HP isn’t the only thing you must\nkeep an eye on while adventuring with Pokémon.[npcn:29]",
+  "class_g_03_home_14": "I hope that you will all take care to ensure that\nyour partner Pokémon can perform at their best\\r\nas you each engage in the Treasure Hunt.[npcn:29]",
+  "class_g_03_home_15": "Our time together has come to an end for today.\nOur next meeting will be an examination day.\\r\nBe sure to review well in preparation.[npcn:29]"
+}
