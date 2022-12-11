@@ -1,0 +1,18 @@
+{
+  "kizuna_health_d_01": "Hey there! Come on in! Everyone’s welcome in\nthe nurse’s office![npcn:28]",
+  "kizuna_health_d_02": "[BD06:0]Oh! [trnm:0]! I’m glad\nyou’re here![npcn:28]",
+  "kizuna_health_d_03": "I have some good news! You’re not gonna\nbelieve this, but...[npcn:28]",
+  "kizuna_health_d_04": "I passed the health teacher certification exam![npcn:28]",
+  "kizuna_health_d_select_01": "Congratulations!",
+  "kizuna_health_d_select_02": "That’s great!",
+  "kizuna_health_d_05": "Thank you so much![npcn:28]",
+  "kizuna_health_d_06": "I saw you pushing yourself real hard with your\nTreasure Hunt, and that really inspired me.[npcn:28]",
+  "kizuna_health_d_07": "Of course, MOST of the credit for my success\ngoes to my own hard work, though! Hehe.[npcn:28]",
+  "kizuna_health_d_08": "Thanks for giving me the push I needed to try\nagain, [trnm:0].[npcn:28]",
+  "kizuna_health_d_09": "Buuut they tell me there’s no room to add new\nclasses this year![npcn:28]",
+  "kizuna_health_d_10": "So I guess I’ll keep being Nurse Miriam for a bit![npcn:28]",
+  "kizuna_health_d_11": "Just you wait, though! I’ll be standing in front of\na class at this academy before you know it.[npcn:28]",
+  "kizuna_health_d_12": "Then I’ll teach you all you need to know\nabout health![npcn:28]",
+  "kizuna_health_d_13": "I bet I’ll make a great teacher. I can’t wait to see\nyou in my class![npcn:28]",
+  "kizuna_health_d_system_01": "You formed a close bond with Nurse Miriam!"
+}
