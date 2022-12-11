@@ -1,0 +1,20 @@
+{
+  "kizuna_head_c_01": "[BD06:0]Thank you for the visit, M[aster;iss:g]\n[trnm:0].[npcn:A]",
+  "kizuna_head_c_02": "A good friend of mine has been telling me of\nyour recent exploits.[npcn:A]",
+  "kizuna_head_c_select_01": "A good friend?",
+  "kizuna_head_c_select_02": "You mean Clive?",
+  "kizuna_head_c_03": "Ha ha... I’ll leave their identity to your\nimagination.[npcn:A]",
+  "kizuna_head_c_04": "But now, lest I forget, there is another matter\nI would very much like your opinion on.[npcn:A]",
+  "kizuna_head_c_05": "Do you know what manner of gentleman’s\nhairstyle is considered cool, as it were, among\\r\nthe youth these days?[npcn:A]",
+  "kizuna_head_c_select_03": "Short styles",
+  "kizuna_head_c_select_04": "Two-block cuts",
+  "kizuna_head_c_select_05": "Bowl cuts",
+  "kizuna_head_c_select_06": "Long locks",
+  "kizuna_head_c_select_07": "Giant pompadours",
+  "kizuna_head_c_06a": "Oh? Is that so?\\c\nI suppose I have indeed seen some of the\nacademy’s male students sporting such a style.[npcn:A]",
+  "kizuna_head_c_06b": "Oho! Pompadours, you say? I suspected as much!\\c\nThough I don’t seem to recall many of the\nacademy’s male students sporting such a style...[npcn:A]",
+  "kizuna_head_c_07": "Could it be, then, that the pompadour has\nalready had its day in the sun...?\\c\nPerhaps I ought to consider a change of wig...[npcn:A]",
+  "kizuna_head_c_08": "Ah. That is to say... Never mind.[npcn:A]",
+  "kizuna_head_c_09": "[BD06:0]Thank you for your insight, M[aster;iss:g]\n[trnm:0].\\r\nIt was\\r\nmost\\r\nenlightening.[npcn:A]",
+  "kizuna_head_c_system_01": "You feel trusted by Director Clavell!"
+}
