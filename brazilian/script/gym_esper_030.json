@@ -1,0 +1,7 @@
+{
+  "gym_esper_030_receptionist_01": "[BD06:0]I see you completed the ESP exercise,\n[trnm:0]!",
+  "gym_esper_030_receptionist_02": "Congratulations! You pass the Gym Test!",
+  "gym_esper_030_receptionist_03": "You’ve now earned the right to challenge the\nGym Leader. Best of luck!",
+  "gym_esper_030_trainer_01": "You have to report your passing grade to the\nlobby staffer to formally finish the Gym Test!\\c\nOh, and ESP actually stands for “[clr:6]extrasensory[clr:0]\n[clr:6]perception[clr:0].” Tulip made up “Emotional Spectrum\\r\nPractice” herself. Don’t get that wrong on a test![npcn:24]",
+  "gym_esper_030_trainer_02": "I’ll be cheering for you in your battle with Tulip,\nnew kid![npcn:24]"
+}
