@@ -43,7 +43,7 @@
   "msg_ui_option_select_01": "Would you like to save these settings?",
   "msg_ui_option_select_02": "Your settings have been saved.\\c",
   "msg_ui_option_select_03": "Would you like to reset all the settings to\ntheir defaults?",
-  "msg_ui_option_volume": "[VAR NUM3(0000)]",
+  "msg_ui_option_volume": "[num3:0]",
   "msg_ui_option_15": "Vertical Camera Controls",
   "msg_ui_option_15_01": "Regular",
   "msg_ui_option_15_02": "Inverted",
