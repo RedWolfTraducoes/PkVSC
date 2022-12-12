@@ -1,0 +1,19 @@
+{
+  "sub_008_master_01": "Hey, I can put any Pokémon that’s Lv. 50 or\nhigher through Hyper Training, if you’d like!",
+  "sub_008_master_02": "Whaddya say? Do you want one of your\nPokémon to go through Hyper Training?",
+  "sub_008_master_03": "So, which Pokémon d’you want me to\nHyper Train?",
+  "sub_008_master_cancel": "Maybe another time, then...",
+  "sub_008_master_04": "Huh? Sorry, kid, but it looks like you don’t have\nany Bottle Caps or Gold Bottle Caps.",
+  "sub_008_master_05": "Your Pokémon can’t withstand Hyper Training\nunless they’ve reached Lv. 50.",
+  "sub_008_master_06": "[BD06:0][pknk:1] is so strong, it doesn’t\nneed\\r\nHyper\\r\nTraining.",
+  "sub_008_master_07": "Do you want to use Bottle Caps or a Gold\nBottle Cap?",
+  "sub_008_select_01": "A Gold Bottle Cap (You have: [num2:2])",
+  "sub_008_select_03": "Bottle Caps (You have: [num2:3])",
+  "sub_008_select_02": "Never mind",
+  "sub_008_master_08": "So you want me to raise all of its stats?",
+  "sub_008_master_09": "Which stat do you want me to raise?",
+  "sub_008_master_10": "Hope you’re ready. Let’s get to Hyper Training!",
+  "sub_008_master_11": "That stat is so high, it doesn’t need Hyper\nTraining.",
+  "sub_008_master_13": "[BD06:0][pknk:1]’s Hyper Training is\ncomplete...\\r\nIt’s\\r\nbecome\\r\nstronger!",
+  "sub_008_master_14": "Do you want to continue Hyper Training?"
+}
