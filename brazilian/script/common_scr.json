@@ -1,0 +1,16 @@
+{
+  "msg_common_scr_yes": "Sim",
+  "msg_common_scr_no": "Não",
+  "msg_common_money": "₽[num7:8,2C]",
+  "msg_common_report_01": "Você gostaria de salvar sua aventura até agora?",
+  "msg_common_report_02": "Salvando a sua aventura...\nNão desligue a energia.",
+  "msg_common_report_03": "Você salvou o seu progresso!",
+  "msg_common_report_04": "Já existe um arquivo gravado,\nentão você não pode salvar agora.\\c\nVerifique o manual eletrônico para detalhes.",
+  "msg_common_report_05": "Erro ao salvar.",
+  "msg_common_getmoney_01": "Você obteve ₽[num8:2,2C]!",
+  "msg_common_pokeget_01": "Você obteve [pknm:1]!",
+  "msg_common_lpget_01": "Você obteve [num8:2,2C] PL!",
+  "msg_yoroi_00": "[itm2:1]",
+  "msg_yoroi_01": "×",
+  "msg_yoroi_02": "[num3:2]"
+}
