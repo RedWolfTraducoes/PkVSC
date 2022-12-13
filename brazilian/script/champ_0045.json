@@ -1,0 +1,18 @@
+{
+  "champ_0045_dragon_01": "[BD06:0]Pardon me. Would you be the\n[trnm:0]\\r\nI’ve\\r\nbeen\\r\nhearing\\r\nso\\r\nmuch\\r\nabout?[npcn:2C]",
+  "champ_0045_dragon_02": "Nemona had mentioned there was a promising\nnew face in the academy—yes, indeed.[npcn:2C]",
+  "champ_0045_dragon_03": "Oh, but I do apologize. I didn’t mean to startle\nyou by addressing you so suddenly.[npcn:2C]",
+  "champ_0045_dragon_04": "My name is Hassel. I’m one of the Elite Four of\nthe Pokémon League.\\c\nI also teach art classes at the academy.[npcn:12]",
+  "champ_0045_dragon_05": "[BD06:0]So, do tell me, young [trnm:0]:\nWhat\\r\ncompels\\r\nyou to\\r\ncollect\\r\nthese\\r\nGym\\r\nBadges\\r\nand\\r\nstrive\\r\nto be a\\r\nChampion?[npcn:12]",
+  "champ_0045_select_01": "I want to get stronger",
+  "champ_0045_select_02": "My friend asked me to",
+  "champ_0045_select_03": "I want to find my “treasure”",
+  "champ_0045_select_04": "For fun, I guess...?",
+  "champ_0045_dragon_06": "Asked and answered. Thank you.[npcn:12]",
+  "champ_0045_dragon_07": "Naturally there is no single correct answer.\\c\nAll paths lead to the Great Crater of Paldea,\nas they say.[npcn:12]",
+  "champ_0045_dragon_08": "You know, your friend Nemona is the youngest to\nachieve Champion Rank in all Paldean history...[npcn:12]",
+  "champ_0045_dragon_09": "It is entirely possible that such great potential lies\nwithin you as well.[npcn:12]",
+  "champ_0045_dragon_10": "Should you continue striving to reach Champion\nRank, you will one day have to battle me.[npcn:12]",
+  "champ_0045_dragon_11": "You would be wise to train hard starting now.\nIt will save you from experiencing the bitter\\r\nregret of defeat.[npcn:12]",
+  "champ_0045_dragon_12": "Oh, and do come along to my art class sometime.\nI would be thrilled to have you attend.[npcn:12]"
+}

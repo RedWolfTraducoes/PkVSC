@@ -1,0 +1,21 @@
+{
+  "sub_004_ui_01": "[num2:0]:[num2:1].[num2:2]",
+  "sub_004_ui_02": "[num2:0]:[num2:1].[num2:2]",
+  "sub_004_01": "Congratulations on clearing the Cortondo Gym!",
+  "sub_004_02": "Now that you’ve got a badge from Katy, you’re\nentitled to try a special Olive Roll challenge!",
+  "sub_004_03": "In this version of the Olive Roll, we’ll keep track\nof how long it takes you to finish.",
+  "sub_004_04": "And we’ve got lovely prizes for you if you roll\nyour way to a super-speedy time!",
+  "sub_004_05": "Ready to try your hand at the special Olive Roll?",
+  "sub_004_chose_1": "I’m ready to roll!",
+  "sub_004_chose_2": "What’s my record time?",
+  "sub_004_chose_3": "I’ll pass, thanks",
+  "sub_004_chose_1_after": "Great! Put in a wish for a good olive harvest, and\nroll, roll, roll away!",
+  "sub_004_chose_2_after": "Your fastest roll yet is [num2:1]:[num2:2].[num2:3]!",
+  "sub_004_chose_3_after": "No problem. Just come let me know if you\nchange your mind.",
+  "sub_004_clear_1": "Well rolled! Your time was [num2:1]:[num2:2].[num2:3]!",
+  "sub_004_clear_2": "You made it to the goal in less than [num2:1]:[num2:2].[num2:3],\nso you’ve earned yourself a nice gift!",
+  "sub_004_clear_3": "If you can beat the target time of [num2:1]:[num2:2].[num2:3],\nthere’s a prize with your name on it. Keep rolling!",
+  "sub_004_first_clear_1": "That was some nice rolling out there!",
+  "sub_004_first_clear_2": "Let’s see now... Your time was [num2:1]:[num2:2].[num2:3]!",
+  "sub_004_first_clear_3": "Since this was your first time finishing the special\nOlive Roll, here’s your very own special prize."
+}
