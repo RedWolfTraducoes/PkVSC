@@ -5,11 +5,11 @@
   "common_0320_rival_03": "Você decidiu ir para o oeste da escola,\ncerto, [trnm:0]?[npcn:4]",
   "common_0320_rival_04": "A partir daí, você estará bem próximo\na Cortondo.[npcn:4]",
   "common_0320_rival_05": "É lá que você encontrará o Ginásio Inseto!\nPode enfrentar o Líder do Ginásio se quiser![npcn:4]",
-  "common_0320_rival_06": "[BD06:0]I’m sure you can beat her,\n[trnm:0]!\\r\nGood\\r\nluck—I’ll\\r\ncall\\r\nya soon![npcn:4]",
-  "common_0320_friend_01": "[BD06:0]Hello? This is [trnm:0]’s\nphone,\\r\nright?[npcn:6]",
+  "common_0320_rival_06": "[BD06:0]Tenho certeza que pode vencê-la,\n[trnm:0]!\\r\nBoa\\r\nsorte —\\r\nligo para você\\r\nem breve![npcn:4]",
+  "common_0320_friend_01": "[BD06:0]Olá? Este é o telefone\\r\nd[o;a:g] [trnm:0],\\r\ncerto?[npcn:6]",
   "common_0320_friend_02": "Sou eu — Arven! Estava um pouco preocupado\nse já havia conseguido ou não partir.[npcn:6]",
   "common_0320_friend_03": "Acabou decidindo partir para o leste, certo?\nDepois de sair da escola?[npcn:6]",
   "common_0320_friend_04": "Se sim, não está tão longe da área onde dizem\nque o Titã do Penhasco Pedregoso vive.[npcn:6]",
   "common_0320_friend_05": "As histórias dizem que se agarra as pedras —\npraticamente se torna ela — então ataca de cima![npcn:6]",
-  "common_0320_friend_06": "Though...maybe don’t be staring up overhead all\nthe time looking for a Titan, only to go tumbling\\r\noff some cliff you didn’t see.\\c\nIf that ever does happen, you can open your map\napp and call yourself a Flying Taxi to pick you up.\\c\nSome of those rocky areas are like a real maze,\nso try not to get lost, little buddy.\\c\nAnd if you find a Titan, let me know![npcn:6]"
+  "common_0320_friend_06": "Embora... talvez não olhe para cima o tempo todo\nprocurando por um Titã, e cair de algum\npenhasco que não viu.Se isso acontecer, abra seu\napp de mapa e chamar um Taxi voador para buscá-lo.\nAlgumas dessas áreas rochosas são como um\nverdadeiro labirinto, então tente não se perder, amigo.\\c\nE se você encontrar um Titã, me avise![npcn:6]"
 }

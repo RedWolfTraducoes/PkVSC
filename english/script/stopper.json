@@ -1,0 +1,21 @@
+{
+  "stopper_general_01": "You can head this way later.",
+  "stopper_general_02": "You should see what you can find by exploring\nthe academy!",
+  "stopper_common_0030_01": "You’re not quite ready to go to school yet.",
+  "stopper_common_0060_01": "You need to take these three Pokémon to your\nneighbor’s house down the way!",
+  "stopper_common_0070_01": "[BD06:0]Wait, [trnm:0]! You gotta\nchoose\\r\na\\r\nPokémon![npcn:4]",
+  "stopper_common_0088_01": "Miss Nemona awaits you at the beach, I believe.[npcn:A]",
+  "stopper_common_0095_01": "You haven’t chosen a Pokémon yet! Better go tell\nthe director which one you want.",
+  "stopper_common_0170_01": "Hroof hroof! Grarf!",
+  "stopper_common_0170_02": "You hear Houndoom barking an awful lot.\nMaybe you’d better not go in there.",
+  "stopper_common_0170_03": "Things look dangerous ahead.\nBetter not get too close.",
+  "stopper_common_0220_01": "Nemona’s waiting for you! Better head toward\nthe academy!",
+  "stopper_legend_0110_01": "The door is locked!",
+  "stopper_dan_ajito_00": "*beeeeeep* *krrrzt*",
+  "stopper_dan_ajito_01": "Back up, kid! You can’t just casually waltz in here\nlike you’re one of us stars that run the joint![npcn:2F]",
+  "stopper_dan_ajito_02": "If you want in, ring the bell over by the entrance\nand storm the base like a decent person![npcn:2F]",
+  "stopper_common_1300_01": "The elevator doors are shut tight.",
+  "stopper_common_1180_01": "Try using the panel down below to open the gate\nto the Zero Lab.",
+  "stopper_common_0130_01": "You should go see if that Pokémon is all right!",
+  "stopper_gym_stopper_01": "You’re still in the middle of the Gym Test!\nBetter not go in the Gym right now."
+}
