@@ -1,0 +1,15 @@
+{
+  "hud_announce_dummy00": "",
+  "hud_announce_mission00": "Use your map to find your next destination!",
+  "hud_announce_nomal00": "[trnm:0] is looking for allies for a Tera Raid Battle!",
+  "hud_announce_nomal04": "[trnm:0] wants to trade Pokémon!",
+  "hud_announce_nomal05": "[trnm:0] wants an opponent for a Single Battle!",
+  "hud_announce_nomal06": "[trnm:0] wants an opponent for a Double Battle!",
+  "hud_announce_nomal07": "[trnm:0] wants to have a Multi Battle!",
+  "hud_announce_nomal08": "[trnm:0] would love some visitors at their picnic!",
+  "hud_announce_nomal09": "[trnm:0] is looking for help making sandwiches!",
+  "hud_announce_nomal10": "Surprise Trade completed!",
+  "hud_announce_button00": "Quit",
+  "hud_announce_button01": "Check",
+  "hud_announce_button02": "Join"
+}
