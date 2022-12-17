@@ -1,0 +1,20 @@
+{
+  "common_0040_head_teacher_01": "Perdoe-me a intrusão.[npcn:2C]",
+  "common_0040_head_teacher_02": "Você deve ser...?\n[O;A:g] senhor[ita:g] [trnm:0], eu presumo.[npcn:2C]",
+  "common_0040_head_teacher_03": "Em nome da academia, devo-lhe desculpas pela\nchegada tardia dos seus documentos de matrícula.[npcn:2C]",
+  "common_0040_head_teacher_04": "Ah. E também pela minha falta de modos\nem me apresentar devidamente. [npcn:2C]",
+  "common_0040_head_teacher_05": "Eu sou o diretor da Academia Laranja. \nMas pode me chamar de Sr. Clavell.[npcn:A]",
+  "common_0040_head_teacher_11": "Eu sou o diretor da Academia Uva. \nMas pode me chamar de Sr. Clavell.[npcn:A]",
+  "common_0040_mama_01": "O diretor?! E veio pessoalmente ajudar [o;a:g] \nm[eu;inha:g] filh[o;a:g] em seu primeiro dia?[npcn:2B]",
+  "common_0040_head_teacher_06": "Bem, eu sou responsável por toda a academia,\nincluindo quaisquer erros da nossa parte...[npcn:A]",
+  "common_0040_head_teacher_07": "Portanto, aqui estão os documentos de matrícula\nque já deveriam estar em suas mãos.[npcn:A]",
+  "common_0040_mama_02": "É muita bondade a sua, mas realmente não\nprecisava...[npcn:2B]",
+  "common_0040_mama_03": "Já que você veio até aqui, posso pelo menos\nlhe oferecer uma xícara de chá?[npcn:2B]",
+  "common_0040_head_teacher_08": "Ah, não precisa se incomodar tanto...[npcn:A]",
+  "common_0040_mama_04": "[BD06:0][trnm:0], eu tenho alguns\nassuntos\\r\npara\\r\ntratar\\r\ncom\\r\no\\r\ndiretor aqui.[npcn:2B]",
+  "common_0040_mama_05": "Por que não volta para o [clr:6]seu quarto[clr:0] e termina\nde se preparar para o seu primeiro dia?\\c\nTenho certeza de que vai precisar da sua bolsa...\nAh! E não se esqueça de colocar o chapéu![npcn:2B]",
+  "common_0040_mama_06": "Agora, Sr. Clavell, junte-se a mim para\numa xícara. É por aqui...[npcn:2B]",
+  "common_0040_head_teacher_09": "Bem, como eu poderia recusar essa oferta?[npcn:A]",
+  "common_0040_head_teacher_10": "Seu quarto é no andar acima? Não se precisa\nse preocupar comigo. Vá em frente.[npcn:A]",
+  "common_0040_mama_07": "[BD06:0]O que está esperando, [trnm:0]!?\nVá para o\\r\n[clr:6]seu[clr:0]\\r\n[clr:6]quarto[clr:0]\\r\ne\\r\ntermine\\r\nde\\r\nse\\r\narrumar\\r\npara\\r\na\\r\nescola.\\c\nVocê vai precisa da sua bolsa e...\ntambém do seu chapéu é claro![npcn:2B]"
+}
