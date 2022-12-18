@@ -15,7 +15,7 @@
   "msg_ui_pokedex_registration_01": "N/A",
   "msg_ui_pokedex_registration_02": "N/A",
   "msg_zkn_15_02": "Próximo",
-  "msg_ui_pokedex_nickname_00": "[BD06:0]Você gostaria de dar um apelido\na [pknk:0]?",
+  "msg_ui_pokedex_nickname_00": "[BD06:0]Gostaria de dar um apelido\na [pknk:0]?",
   "msg_ui_pokedex_fly_01": "Sim",
   "msg_ui_pokedex_fly_02": "NÃO",
   "msg_ui_pokedex_transfer": "[BD06:0]Para onde você quer enviar\n[1300:0,0][pknk:0]?",
