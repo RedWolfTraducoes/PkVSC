@@ -1,0 +1,9 @@
+{
+  "msg_ui_btl_dan_pokename": "[pknk:0]",
+  "msg_ui_btl_dantime_01": "[num2:0]:[num2:1]",
+  "msg_ui_btl_dan_ko_01": "[num3:0]",
+  "msg_ui_btl_dan_ko_02": "/[num2:1]",
+  "msg_ui_btl_dan_guide_01": "Send Pokémon",
+  "msg_ui_btl_dan_guide_02": "Recall Pokémon",
+  "msg_ui_btl_dan_guide_03": "Give Up"
+}

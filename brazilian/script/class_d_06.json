@@ -19,7 +19,7 @@
   "class_d_06_select_04": "Diga de novo, Pikachu!",
   "class_d_06_language_answer_01": "[BD06:0]Ah não, [trnm:0]! Isso está\nincorreto.\\c\nAu contraire — pelo contrário, acredito que é\no oposto![npcn:26]",
   "class_d_06_language_answer_02": "[BD06:0]Ding ding ding! Correto,\n[trnm:0]! Fantastique![npcn:26]",
-  "class_d_06_language_answer_03": "[BD06:0]Oh no, [trnm:0]! That’s\nincorrect.\\r\nUnless,\\r\nperhaps,\\r\nPikachu\\r\nwas\\r\nso\\r\nsurprised\\r\nthat\\r\nit\\r\ndropped\\r\na\\r\ntasty Berry![npcn:26]",
+  "class_d_06_language_answer_03": "[BD06:0]Ah não, [trnm:0]! Isso está\nincorreto.\nA menos\nque,\\r\ntalvez,\\r\nPikachu\\r\nficado\\r\ntão\\r\nsurpreso\\r\nque\\r\nderrubou\\r\numa\\r\nfruta saborosa![npcn:26]",
   "class_d_06_language_14": "Quando Pikachu diz...[npcn:26]",
   "class_d_06_poke_03": "Pikaaa...",
   "class_d_06_language_15": "Está expressando tristeza. Meio que faz querer\nchorar, não é?[npcn:26]",

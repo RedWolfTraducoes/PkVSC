@@ -1,0 +1,15 @@
+{
+  "hud_announce_dummy00": "",
+  "hud_announce_mission00": "Use o seu mapa para encontrar o seu próximo destino!",
+  "hud_announce_nomal00": "[trnm:0] está procurando por aliados para uma Batalha de Reide de Tera!",
+  "hud_announce_nomal04": "[trnm:0] quer trocar um Pokémon!",
+  "hud_announce_nomal05": "[trnm:0] quer um oponente para uma Batalha Individual!",
+  "hud_announce_nomal06": "[trnm:0] quer um oponente para uma Batalha Dupla!",
+  "hud_announce_nomal07": "[trnm:0] quer ter uma Batalha Múltipla!",
+  "hud_announce_nomal08": "[trnm:0] adoraria alguns visitantes em seu piquenique!",
+  "hud_announce_nomal09": "[trnm:0] está procurando ajuda para fazer sanduíches!",
+  "hud_announce_nomal10": "Troca Surpresa concluída!",
+  "hud_announce_button00": "Sair",
+  "hud_announce_button01": "Verificar",
+  "hud_announce_button02": "Juntar-se"
+}
