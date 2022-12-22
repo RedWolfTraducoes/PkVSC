@@ -1,0 +1,23 @@
+{
+  "hud_report_00": "Salvando...",
+  "hud_magical_00": "Troca concluída!",
+  "hud_team_00": "[trnk:0]",
+  "hud_infoarea_00": "Rastreamento de Máquina MT",
+  "hud_infoarea_01": "[move:0]",
+  "hud_infoarea_02": "[itm2:0]",
+  "hud_infoarea_03": "Pontos da Liga",
+  "hud_infoarea_04": "[num7:0,2C] PL",
+  "hud_infoarea_05": "Poderes de Comida Ativos",
+  "hud_infoarea_06": "[num2:0]:[num2:1]",
+  "hud_infoarea_07": "[012D:0]",
+  "hud_infoarea_08": "Nv. [num1:0]",
+  "hud_infoarea_09": "[clr:1][num3:0][clr:0]/[num3:1]",
+  "hud_infoarea_10": "[num3:0]/[num3:1]",
+  "hud_infoarea_11": "1",
+  "hud_infoarea_12": "2",
+  "hud_infoarea_13": "3",
+  "hud_infoarea_14": "4",
+  "hud_infoarea_15": "5",
+  "hud_infoarea_16": "Sem avisos",
+  "hud_infoarea_17": "???"
+}
