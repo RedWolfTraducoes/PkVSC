@@ -20,7 +20,7 @@
   "common_1010_friend_07": "De qualquer forma, Penny concordou na hora\nquando soube que era para ajudar [trnm:0].[npcn:6]",
   "common_1010_botan_06": "[BD06:0]Não sou do tipo que se aventura... mas devo a\nvocê, [trnm:0].\\r\nE\\r\npago \\r\nminhas dívidas.[npcn:8]",
   "common_1010_friend_08": "Ela está incrivelmente antiquada assim.[npcn:6]",
-  "common_1010_friend_09": "E claro que todo mundo me conhece, Arven! Meus\namores incluem meu Mabosstiff e cozinhando e—[npcn:6]",
+  "common_1010_friend_09": "E claro que todo mundo me conhece, Arven! Meus\namores incluam meu Mabosstiff e cozinheiro e—[npcn:6]",
   "common_1010_hakase_01a": "Identificação biométrica em progresso...[npcn:2C]",
   "common_1010_hakase_01b": "Identificação biométrica em progresso...[npcn:2C]",
   "common_1010_hakase_02a": "[BD06:0]Olá, [trnm:0]. Eu estava\nesperando você.[npcn:B]",
@@ -49,10 +49,10 @@
   "common_1010_hakase_08b": "...Prossiga abaixo.[npcn:E]",
   "common_1010_friend_12": "... ... ...[npcn:6]",
   "common_1010_botan_09": "Eles... não estão se dando bem?[npcn:8]",
-  "common_1010_rival_10": "Must not be...[npcn:4]",
-  "common_1010_rival_11": "I wonder if the professor’s any good at\nPokémon battling...[npcn:4]",
-  "common_1010_friend_13": "...Guess we’d better “proceed below,”\nas requested.[npcn:6]",
-  "common_1010_botan_10a": "Sada used to be really famous. Everyone knew\nwho she was.\\c\nBut she hasn’t been in the media in, like...ages.[npcn:8]",
-  "common_1010_botan_10b": "Turo used to be really famous. Everyone knew\nwho he was.\\c\nBut he hasn’t been in the media in, like...ages.[npcn:8]",
-  "common_1010_friend_stopper": "[BD06:0]Where’re you off to,\n[trnm:0]?\\r\nWe’re\\r\nsupposed\\r\nto\\r\nhead down.[npcn:6]"
+  "common_1010_rival_10": "Não deve ser...[npcn:4]",
+  "common_1010_rival_11": "Eu me pergunto se o professor é bom em\nBatalhas de Pokémon...[npcn:4]",
+  "common_1010_friend_13": "...Acho que é melhor \"prosseguir\",\nconforme solicitado.[npcn:6]",
+  "common_1010_botan_10a": "Sada costumava ser muito famosa.\nTodo mundo sabia quem era ela.\\c\nMas ela não aparece na mídia há, tipo... eras.[npcn:8]",
+  "common_1010_botan_10b": "Turo costumava ser muito famoso.\nTodo mundo sabia quem era ele.\\c\nMas não aparece na mídia há, tipo... eras.[npcn:8]",
+  "common_1010_friend_stopper": "[BD06:0]Para onde você está indo,\n[trnm:0]?\\r\nDevemos descer.[npcn:6]"
 }
