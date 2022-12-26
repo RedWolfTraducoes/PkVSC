@@ -1,10 +1,10 @@
 {
-  "common_1070_system_01": "Do you want to press the button to disable one\nof the locks on the Zero Lab?",
-  "common_1070_system_02": "You heard the professor... Better press it!",
-  "common_1070_system_03": "Lock disabled.\nThree of four locks are still active.",
-  "common_1070_hakase_01a": "Well done.[npcn:B]",
-  "common_1070_hakase_01b": "Well done.[npcn:E]",
-  "common_1070_hakase_02a": "Please continue your efforts at the remaining\nresearch stations.[npcn:B]",
-  "common_1070_hakase_02b": "Please continue your efforts at the remaining\nresearch stations.[npcn:E]",
+  "common_1070_system_01": "Você deseja pressionar o botão para desativar um\ndos bloqueios no Laboratório Zero?",
+  "common_1070_system_02": "Você ouviu [a;o:gs] professor[a;:gs]... Melhor pressionar!",
+  "common_1070_system_03": "Bloqueio desativado.\nTrês de quatro bloqueios ainda estão ativos.",
+  "common_1070_hakase_01a": "Muito bem.[npcn:B]",
+  "common_1070_hakase_01b": "Muito bem.[npcn:E]",
+  "common_1070_hakase_02a": "Por favor, continue seus esforços nas\nestações de pesquisa restantes.[npcn:B]",
+  "common_1070_hakase_02b": "Por favor, continue seus esforços nas\nestações de pesquisa restantes.[npcn:E]",
   "common_1070_friend_01": "... ... ...[npcn:6]"
 }

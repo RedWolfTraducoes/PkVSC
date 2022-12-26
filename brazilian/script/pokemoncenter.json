@@ -50,7 +50,7 @@
   "msg_common_gameover_pc_01": "First, let’s restore your Pokémon to full health.",
   "msg_common_gameover_pc_02_01": "Be sure to visit a Pokémon Center whenever your\nPokémon [is;are:n] running low on HP.\\c\nAnd if you’re planning to go far off the beaten\npath, you should probably remember to stock\\r\nup on Potions from the Poké Mart, too.\\c\nGood luck out there, Trainer!",
   "msg_common_gameover_pc_02_02": "Your Pokémon [is;are:n] all happy and healthy again!\nGood luck out there, and take care!",
-  "msg_common_mama_01": "Study hard and play hard, that’s what I say!\nYou should enjoy your days as a student.[npcn:2B]",
+  "msg_common_mama_01": "Estude muito, mas não se esqueça de se divertir.\nAproveite ao máximo os seus dias de estudante.[npcn:2B]",
   "msg_common_gameover_mama_01": "[BD06:0]Oh, good to have you home,\n[trnm:0]!\\c\nYour Pokémon [is;are:n] looking a bit weary, though.\nWhy don’t you have a nice rest together?\\c\n... ... ...\n... ... ...[npcn:2B]",
   "msg_common_gameover_mama_02": "There you are! A nice long nap is all a body\nneeds to feel ready for more adventure, right?\\c\nDoesn’t matter whether you’re a person or a\nPokémon—we all need to take time to rest.[npcn:2B]",
   "msg_pokecen_set_birth_01": "[BD06:0]Certainly! Allow me to get your birthday\nregistered in our system,\\r\n[trnm:0]!",

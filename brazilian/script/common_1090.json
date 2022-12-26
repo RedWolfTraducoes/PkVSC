@@ -1,13 +1,13 @@
 {
-  "common_1090_system_01": "Do you want to press the button to disable one\nof the locks on the Zero Lab?",
-  "common_1090_system_02": "You heard the professor... Better press it!",
-  "common_1090_system_03": "Lock disabled.\nTwo of four locks are still active.",
-  "common_1090_hakase_01a": "Well done.[npcn:B]",
-  "common_1090_hakase_01b": "Well done.[npcn:E]",
-  "common_1090_hakase_02a": "Please continue your efforts at the remaining\nresearch stations.[npcn:B]",
-  "common_1090_hakase_02b": "Please continue your efforts at the remaining\nresearch stations.[npcn:E]",
-  "common_1090_friend_01": "Hey, [trnm:0].[npcn:6]",
-  "common_1090_friend_02": "You know that book [s;:gs]he told me to bring?\nI think it’s got something to do with this place.\\c\nOr more like...everything to do with this place.[npcn:6]",
-  "common_1090_friend_03": "But I’m not the one [s;:gs]he expects to fix whatever\nall this is... You are.\\c\nI think you should be the one to carry it.[npcn:6]",
+  "common_1090_system_01": "Você deseja pressionar o botão para desativar um\ndos bloqueios no Laboratório Zero?",
+  "common_1090_system_02": "Você ouviu [a;o:gs] professor[a;:gs]... Melhor pressionar!",
+  "common_1090_system_03": "Bloqueio desativado.\ndois de quatro bloqueios ainda estão ativos.",
+  "common_1090_hakase_01a": "Muito bem.[npcn:B]",
+  "common_1090_hakase_01b": "Muito bem.[npcn:E]",
+  "common_1090_hakase_02a": "Por favor, continue seus esforços nas\nestações de pesquisa restantes.[npcn:B]",
+  "common_1090_hakase_02b": "Por favor, continue seus esforços nas\nestações de pesquisa restantes.[npcn:E]",
+  "common_1090_friend_01": "Ei, [trnm:0].[npcn:6]",
+  "common_1090_friend_02": "Sabe aquele livro  que el[a;e:gs] disse para trazer?\nAcho que tem algo a ver com este lugar.\\c\nOu melhor, tudo relacionado a este lugar.[npcn:6]",
+  "common_1090_friend_03": "Mas não sou o que el[a;e:gs] ele espera consertar\no que quer que seja isso... Você é.\\c\nAcho que você deve carregá-lo.[npcn:6]",
   "common_1090_friend_04": "[BD06:0]Take care of it for me...\nOK, [trnm:0]?[npcn:6]"
 }
