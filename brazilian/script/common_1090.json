@@ -8,6 +8,6 @@
   "common_1090_hakase_02b": "Por favor, continue seus esforços nas\nestações de pesquisa restantes.[npcn:E]",
   "common_1090_friend_01": "Ei, [trnm:0].[npcn:6]",
   "common_1090_friend_02": "Sabe aquele livro  que el[a;e:gs] disse para trazer?\nAcho que tem algo a ver com este lugar.\\c\nOu melhor, tudo relacionado a este lugar.[npcn:6]",
-  "common_1090_friend_03": "Mas não sou o que el[a;e:gs] ele espera consertar\no que quer que seja isso... Você é.\\c\nAcho que você deve carregá-lo.[npcn:6]",
-  "common_1090_friend_04": "[BD06:0]Take care of it for me...\nOK, [trnm:0]?[npcn:6]"
+  "common_1090_friend_03": "Não sou eu quem el[a;e:gs] espera consertar\no que quer que seja isso... Você é.\\c\nAcho que deve carregá-lo.[npcn:6]",
+  "common_1090_friend_04": "[BD06:0]Cuide disso para mim...\nOK, [trnm:0]?[npcn:6]"
 }
